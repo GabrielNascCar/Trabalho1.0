@@ -1,0 +1,14 @@
+C:\Users\Gabriel\source\repos\trab\bin\Debug\net8.0\trab.exe
+C:\Users\Gabriel\source\repos\trab\bin\Debug\net8.0\trab.deps.json
+C:\Users\Gabriel\source\repos\trab\bin\Debug\net8.0\trab.runtimeconfig.json
+C:\Users\Gabriel\source\repos\trab\bin\Debug\net8.0\trab.dll
+C:\Users\Gabriel\source\repos\trab\bin\Debug\net8.0\trab.pdb
+C:\Users\Gabriel\source\repos\trab\obj\Debug\net8.0\trab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\source\repos\trab\obj\Debug\net8.0\trab.AssemblyInfoInputs.cache
+C:\Users\Gabriel\source\repos\trab\obj\Debug\net8.0\trab.AssemblyInfo.cs
+C:\Users\Gabriel\source\repos\trab\obj\Debug\net8.0\trab.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\source\repos\trab\obj\Debug\net8.0\trab.dll
+C:\Users\Gabriel\source\repos\trab\obj\Debug\net8.0\refint\trab.dll
+C:\Users\Gabriel\source\repos\trab\obj\Debug\net8.0\trab.pdb
+C:\Users\Gabriel\source\repos\trab\obj\Debug\net8.0\trab.genruntimeconfig.cache
+C:\Users\Gabriel\source\repos\trab\obj\Debug\net8.0\ref\trab.dll
