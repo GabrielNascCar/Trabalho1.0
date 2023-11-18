@@ -23,5 +23,19 @@ namespace trabalhoFaculdade {
 
         }
 
+        static void Exibirmeses()
+        {
+            string[] messArray = { "Jan", "Fev", "Mar", "Abr", "Mai",
+                                    "Jun", "Jul", "Ago", "Set", "Out",
+                                    "Nov", "Dec"};
+
+            foreach (string mes in messArray)
+            {
+                Console.WriteLine($"Mês : {mes}");
+                Thread.Sleep(1200);
+            }
+        }
+
+        
     }
 }

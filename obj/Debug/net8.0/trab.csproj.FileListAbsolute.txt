@@ -12,3 +12,18 @@ C:\Users\Gabriel\source\repos\trab\obj\Debug\net8.0\refint\trab.dll
 C:\Users\Gabriel\source\repos\trab\obj\Debug\net8.0\trab.pdb
 C:\Users\Gabriel\source\repos\trab\obj\Debug\net8.0\trab.genruntimeconfig.cache
 C:\Users\Gabriel\source\repos\trab\obj\Debug\net8.0\ref\trab.dll
+C:\Users\thayn\A3 - Mobile\Trabalho1.0\bin\Debug\net8.0\trab.exe
+C:\Users\thayn\A3 - Mobile\Trabalho1.0\bin\Debug\net8.0\trab.deps.json
+C:\Users\thayn\A3 - Mobile\Trabalho1.0\bin\Debug\net8.0\trab.runtimeconfig.json
+C:\Users\thayn\A3 - Mobile\Trabalho1.0\bin\Debug\net8.0\trab.dll
+C:\Users\thayn\A3 - Mobile\Trabalho1.0\bin\Debug\net8.0\trab.pdb
+C:\Users\thayn\A3 - Mobile\Trabalho1.0\obj\Debug\net8.0\trab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thayn\A3 - Mobile\Trabalho1.0\obj\Debug\net8.0\trab.AssemblyInfoInputs.cache
+C:\Users\thayn\A3 - Mobile\Trabalho1.0\obj\Debug\net8.0\trab.AssemblyInfo.cs
+C:\Users\thayn\A3 - Mobile\Trabalho1.0\obj\Debug\net8.0\trab.csproj.CoreCompileInputs.cache
+C:\Users\thayn\A3 - Mobile\Trabalho1.0\obj\Debug\net8.0\trab.sourcelink.json
+C:\Users\thayn\A3 - Mobile\Trabalho1.0\obj\Debug\net8.0\trab.dll
+C:\Users\thayn\A3 - Mobile\Trabalho1.0\obj\Debug\net8.0\refint\trab.dll
+C:\Users\thayn\A3 - Mobile\Trabalho1.0\obj\Debug\net8.0\trab.pdb
+C:\Users\thayn\A3 - Mobile\Trabalho1.0\obj\Debug\net8.0\trab.genruntimeconfig.cache
+C:\Users\thayn\A3 - Mobile\Trabalho1.0\obj\Debug\net8.0\ref\trab.dll

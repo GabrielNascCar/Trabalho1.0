@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Gabriel\\source\\repos\\trab\\trab.csproj": {}
+    "C:\\Users\\thayn\\A3 - Mobile\\Trabalho1.0\\trab.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Gabriel\\source\\repos\\trab\\trab.csproj": {
+    "C:\\Users\\thayn\\A3 - Mobile\\Trabalho1.0\\trab.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Gabriel\\source\\repos\\trab\\trab.csproj",
+        "projectUniqueName": "C:\\Users\\thayn\\A3 - Mobile\\Trabalho1.0\\trab.csproj",
         "projectName": "trab",
-        "projectPath": "C:\\Users\\Gabriel\\source\\repos\\trab\\trab.csproj",
-        "packagesPath": "C:\\Users\\Gabriel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Gabriel\\source\\repos\\trab\\obj\\",
+        "projectPath": "C:\\Users\\thayn\\A3 - Mobile\\Trabalho1.0\\trab.csproj",
+        "packagesPath": "C:\\Users\\thayn\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\thayn\\A3 - Mobile\\Trabalho1.0\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Gabriel\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\thayn\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
