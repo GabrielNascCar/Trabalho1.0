@@ -10,9 +10,16 @@ namespace trabalhoFaculdade {
         static void Main() {
             Console.WriteLine("Precione ENTER para começar!");
             Console.ReadLine();
-            exibirDias();
-            Exibirmeses();
-            ExibirCidades();
+
+            Parallel.Invoke(
+                new Action (exibirDias),
+                new Action(Exibirmeses),
+                new Action(ExibirCidades)
+            );
+
+            Console.WriteLine("\nO método Main foi encerrado. Tecle Enter");
+            Console.ReadLine();
+            
         }
 
         static void exibirDias() {
