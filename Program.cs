@@ -12,9 +12,9 @@ namespace trabalhoFaculdade {
             Console.ReadLine();
 
             Parallel.Invoke(
-                new Action (exibirDias),
-                new Action(Exibirmeses),
-                new Action(ExibirCidades)
+                new Action (nomeFuncionario),
+                new Action(salarioFuncionario),
+                new Action(idadeFuncionario)
             );
 
             Console.WriteLine("\nO método Main foi encerrado. Tecle Enter");
@@ -22,36 +22,34 @@ namespace trabalhoFaculdade {
             
         }
 
-        static void exibirDias() {
-            string[] diasArray = {"Segunda", "Terça","Quarta","Quita", "Sexta","Sábado", "Domingo"};
+        static void nomeFuncionario() {
+            string[] nomesArray = {"Gabriel", "Arthur", "Fernando", "Thaynara", "Maria", "José", "Claudio"};
 
-            foreach(string dia in diasArray) {
-                Console.WriteLine($"Dia : {dia}");
+            foreach(string nome in nomesArray) {
+                Console.WriteLine($"Nome : {nome}");
                 Thread.Sleep(1500);
             }
 
         }
 
-        static void Exibirmeses()
+        static void salarioFuncionario()
         {
-            string[] messArray = { "Jan", "Fev", "Mar", "Abr", "Mai",
-                                    "Jun", "Jul", "Ago", "Set", "Out",
-                                    "Nov", "Dec"};
+            double[] salarioArray = { 3000, 2500, 2800, 3500, 4000, 3750, 6000};
 
-            foreach (string mes in messArray)
+            foreach (double salario in salarioArray)
             {
-                Console.WriteLine($"Mês : {mes}");
-                Thread.Sleep(1200);
+                Console.WriteLine($"Salario : {salario}");
+                Thread.Sleep(1500);
             }
         }
 
-        static void ExibirCidades(){
-            string[] cidadesArray = {"São Paulo", "Natal", "Rio de Janeiro", "Belo horizonte", "Brazilia", "Jaboatão"};
+        static void idadeFuncionario(){
+            int[] idadeArray = {18, 20, 22, 18, 27, 30, 28};
 
-            foreach(string cidade in cidadesArray)
+            foreach(int idade in idadeArray)
             {
-                Console.WriteLine($"Cidade : {cidade}");
-                Thread.Sleep(2000);
+                Console.WriteLine($"Idade : {idade}");
+                Thread.Sleep(1500);
             }
 
         }

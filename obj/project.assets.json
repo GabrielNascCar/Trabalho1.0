@@ -8,19 +8,24 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\thayn\\.nuget\\packages\\": {}
+    "C:\\Users\\Gabriel\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\thayn\\A3 - Mobile\\Trabalho1.0\\trab.csproj",
+      "projectUniqueName": "C:\\Users\\Gabriel\\Trabalho1.0\\trab.csproj",
       "projectName": "trab",
-      "projectPath": "C:\\Users\\thayn\\A3 - Mobile\\Trabalho1.0\\trab.csproj",
-      "packagesPath": "C:\\Users\\thayn\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\thayn\\A3 - Mobile\\Trabalho1.0\\obj\\",
+      "projectPath": "C:\\Users\\Gabriel\\Trabalho1.0\\trab.csproj",
+      "packagesPath": "C:\\Users\\Gabriel\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Gabriel\\Trabalho1.0\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\thayn\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Gabriel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
