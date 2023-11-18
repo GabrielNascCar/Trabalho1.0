@@ -11,6 +11,8 @@ namespace trabalhoFaculdade {
             Console.WriteLine("Precione ENTER para começar!");
             Console.ReadLine();
             exibirDias();
+            Exibirmeses();
+            ExibirCidades();
         }
 
         static void exibirDias() {
@@ -36,6 +38,16 @@ namespace trabalhoFaculdade {
             }
         }
 
-        
+        static void ExibirCidades(){
+            string[] cidadesArray = {"São Paulo", "Natal", "Rio de Janeiro", "Belo horizonte", "Brazilia", "Jaboatão"};
+
+            foreach(string cidade in cidadesArray)
+            {
+                Console.WriteLine($"Cidade : {cidade}");
+                Thread.Sleep(2000);
+            }
+
+        }
+
     }
 }
