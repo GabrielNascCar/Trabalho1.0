@@ -11,11 +11,36 @@ namespace trabalhoFaculdade {
             Console.WriteLine("Precione ENTER para começar!");
             Console.ReadLine();
 
-            Parallel.Invoke(
-                new Action (nomeFuncionario),
-                new Action(salarioFuncionario),
-                new Action(idadeFuncionario)
-            );
+            Console.WriteLine("Você deseja ver as informações de forma simuntânea?");
+            Console.WriteLine("Se sim, digite 1");
+            Console.WriteLine("Se não, digite 2");
+            int numero = Convert.ToInt32(Console.ReadLine());
+            bool verdadeiro = true;
+
+            while (verdadeiro)
+            {
+                if (numero == 1)
+                {
+                    Parallel.Invoke(
+                    new Action (nomeFuncionario),
+                    new Action(salarioFuncionario),
+                    new Action(idadeFuncionario)
+                    );
+                    verdadeiro = false;
+                }else if (numero == 2)
+                {
+                    nomeFuncionario();
+                    salarioFuncionario();
+                    idadeFuncionario();
+                    verdadeiro = false;
+                }else 
+                {
+                    Console.WriteLine("Você digitou um número invalido! Tente novamente.");
+                    numero = Convert.ToInt32(Console.ReadLine());
+                }
+
+            }
+           
 
             Console.WriteLine("\nO método Main foi encerrado. Tecle Enter");
             Console.ReadLine();
